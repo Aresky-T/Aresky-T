@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Tuan</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
-<img align="right" alt="coding" width="400" src"https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aresky-t&label=Profile%20views&color=0e75b6&style=flat" alt="aresky-t" /> </p>
 
